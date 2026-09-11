@@ -1,3 +1,4 @@
+#Archivos genericos
 *.log
 .vscode
 .DS_Store
@@ -6,3 +7,13 @@ Thumbs.db
 /tmp
 ReadmeInstall.md
 
+
+#Node JS
+node_modules/
+.evn 
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+dist/
+build/
+coverage/
